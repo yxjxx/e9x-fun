@@ -1,5 +1,5 @@
 ---
-- taxonomy: top
+- taxonomy: Tools
   icon: far fa-star
   links:
     - title: regex101
@@ -26,22 +26,10 @@
       logo: github.jpg
       url: https://aliyundriver-refresh-token.vercel.app/
       description: QR Code扫码获取阿里云盘refresh token。
-    - title: https://temp-mail.io/zh
-      logo: github.jpg
-      url: https://temp-mail.io/zh
-      description: 临时邮箱
-    - title: 临时邮箱
-      logo: github.jpg
-      url: https://temp-mail.org/en/
-      description: 临时邮箱
     - title: https://jsonformatter.curiousconcept.com/
       logo: github.jpg
       url: https://jsonformatter.curiousconcept.com/
       description: JSON 格式化
-    - title: https://www.emailnator.com/
-      logo: github.jpg
-      url: https://www.emailnator.com/
-      description: 临时邮箱
     - title: https://vip.taoqitu.pro/qiandao.html
       logo: github.jpg
       url: https://vip.taoqitu.pro/qiandao.html
@@ -70,6 +58,21 @@
       logo: github.jpg
       url: https://vercel.com/yxjxxs-projects
       description: Vercel
+- taxonomy: Temp Mail
+  icon: far fa-envelope
+  links:
+    - title: https://temp-mail.io/zh
+      logo: github.jpg
+      url: https://temp-mail.io/zh
+      description: 临时邮箱
+    - title: 临时邮箱
+      logo: github.jpg
+      url: https://temp-mail.org/en/
+      description: 临时邮箱
+    - title: https://www.emailnator.com/
+      logo: github.jpg
+      url: https://www.emailnator.com/
+      description: 临时邮箱
 - taxonomy: 开源自建
   icon: far fa-star
   links:
