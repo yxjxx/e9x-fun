@@ -6,6 +6,70 @@
       logo: github.jpg
       url: https://regex101.com/
       description: 正则表达式
+    - title: YAML Editor
+      logo: github.jpg
+      url: https://codebeautify.org/yaml-editor-online
+      description: 一个在线的 YAML 编辑器。
+    - title: 在线订阅转换工具
+      logo: github.jpg
+      url: https://sub.v1.mk/
+      description: 在线订阅转换工具。
+    - title: iOS Device Specifications
+      logo: github.jpg
+      url: https://www.blakespot.com/ios_device_specifications_grid.html
+      description: iOS Device Specifications
+    - title: YouTube Channel ID
+      logo: github.jpg
+      url: https://commentpicker.com/youtube-channel-id.php
+      description: YouTube Channel ID
+    - title: QR Code扫码获取阿里云盘refresh token
+      logo: github.jpg
+      url: https://aliyundriver-refresh-token.vercel.app/
+      description: QR Code扫码获取阿里云盘refresh token。
+    - title: https://temp-mail.io/zh
+      logo: github.jpg
+      url: https://temp-mail.io/zh
+      description: 临时邮箱
+    - title: 临时邮箱
+      logo: github.jpg
+      url: https://temp-mail.org/en/
+      description: 临时邮箱
+    - title: https://jsonformatter.curiousconcept.com/
+      logo: github.jpg
+      url: https://jsonformatter.curiousconcept.com/
+      description: JSON 格式化
+    - title: https://www.emailnator.com/
+      logo: github.jpg
+      url: https://www.emailnator.com/
+      description: 临时邮箱
+    - title: https://vip.taoqitu.pro/qiandao.html
+      logo: github.jpg
+      url: https://vip.taoqitu.pro/qiandao.html
+      description: 签到
+    - title: https://whatshub.top/surge
+      logo: github.jpg
+      url: https://whatshub.top/surge
+      description: surge module
+    - title: https://online.swiftplayground.run/
+      logo: github.jpg
+      url: https://online.swiftplayground.run/
+      description: Swift Playground
+    - title: https://superparse.com/zh
+      logo: github.jpg
+      url: https://superparse.com/zh
+      description: 在线解析并下载视频,支持YouTube, Instagram, Facebook, Twitter 等
+    - title: https://www.urldecoder.org/
+      logo: github.jpg
+      url: https://www.urldecoder.org/
+      description: URL解码
+    - title: https://macosicons.com/#/
+      logo: github.jpg
+      url: https://macosicons.com/#/
+      description: macOS 图标
+    - title: https://vercel.com/yxjxxs-projects
+      logo: github.jpg
+      url: https://vercel.com/yxjxxs-projects
+      description: Vercel
 - taxonomy: 开源自建
   icon: far fa-star
   links:
